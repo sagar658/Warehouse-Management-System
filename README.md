@@ -1,4 +1,4 @@
-Welcome to the Warehouse Management System repository! This project, implemented in Python as warehouse.py, aims to streamline the management of warehouse operations for efficient inventory tracking and control.
+Welcome to the Warehouse Management System ! This project, implemented in Python as warehouse.py, aims to streamline the management of warehouse operations for efficient inventory tracking and control.
 
 Overview
 The Warehouse Management System provides a comprehensive solution for warehouse management tasks, including:
